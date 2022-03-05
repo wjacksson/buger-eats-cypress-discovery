@@ -1,0 +1,60 @@
+{
+
+    "signup":{
+
+        "name": "Jackson Soares",
+        "cpf": "00000234011",
+        "email": "jackson@gmail.com",
+        "whats": "88988880000",
+        "address": {
+            "postalcode": "63024530",
+            "street": "Avenida Trinta e Um de Março",
+            "number": "500",
+            "details": "próximo ao tiro de guerra",
+            "district": "São José",
+            "city_state": "Juazeiro do Norte/CE"
+        },
+
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        
+        "name": "Billy Atinhado",
+        "cpf": "00x0023w011*",
+        "email": "Billy@gmail.com",
+        "whats": "88988880000",
+        "address": {
+            "postalcode": "63024530",
+            "street": "Avenida Trinta e Um de Março",
+            "number": "500",
+            "details": "próximo ao tiro de guerra",
+            "district": "São José",
+            "city_state": "Juazeiro do Norte/CE"
+        },
+
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv":{
+
+        "name": "Billy Atinhado",
+        "cpf": "00343567543",
+        "email": "Billy.gmail.com",
+        "whats": "88988880000",
+        "address": {
+            "postalcode": "63024530",
+            "street": "Avenida Trinta e Um de Março",
+            "number": "500",
+            "details": "próximo ao tiro de guerra",
+            "district": "São José",
+            "city_state": "Juazeiro do Norte/CE"
+        },
+
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+
+    }
+
+    }
